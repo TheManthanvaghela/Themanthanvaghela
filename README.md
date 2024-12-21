@@ -1,14 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manthan Vaghela =======================================================================================================================================  MERN Stack Developer --------------------  I am a MERN Stack developer who love Node.js.  * 🌍  I'm based in Bhavnagar City * 🖥️  See my portfolio at [MyPortfolio](http://botverse.live/) * ✉️  You can contact me at [manthanvaghela05@gmail.com](mailto:manthanvaghela05@gmail.com) * 🧠  I'm learning Blockchain & Smart-Contract/ Web.3 * 🤝  I'm open to collaborating on Projects * ⚡  I am Cheetah, known for speed, agility, and hunting skills.
+# Hi, I'm Manthan Vaghela! ✨
 
-### Skills  
+### MERN Stack Developer | Blockchain Enthusiast
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/TheManthanvaghela" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/manthanvaghela05" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+I'm a passionate **MERN Stack Developer** who loves working with **Node.js** and exploring **Blockchain & Web3 technologies**. Known for my speed and adaptability—like a cheetah 🐆—I thrive on tackling challenges and delivering efficient solutions.
 
-<b>My GitHub Stats</b>
+- 🏠 **Location:** Bhavnagar City
+- 📚 **Portfolio:** [Visit My Portfolio](http://botverse.live/)
+- 📧 **Email:** [manthanvaghela05@gmail.com](mailto:manthanvaghela05@gmail.com)
+- 🧐 **Currently Learning:** Blockchain, Smart Contracts, and Web3
+- 🤝 **Open to Collaborations:** Yes! Let's build something great.
 
-<a href="http://www.github.com/TheManthanvaghela"><img src="https://github-readme-stats.vercel.app/api?username=TheManthanvaghela&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TheManthanvaghela's GitHub stats" /></a>
-<a href="http://www.github.com/TheManthanvaghela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheManthanvaghela&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/TheManthanvaghela"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheManthanvaghela&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/TheManthanvaghela" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheManthanvaghela&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🔧 Skills
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Blockchain & Web3
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-%234285F4.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-%237E40F4.svg?style=for-the-badge&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-%2348A9A6.svg?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white" />
+</p>
+
+---
+
+## 💌 Let's Connect
+
+<p>
+  <a href="https://www.github.com/TheManthanvaghela" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manthanvaghela05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+  <a href="http://www.github.com/TheManthanvaghela"><img src="https://github-readme-stats.vercel.app/api?username=TheManthanvaghela&show_icons=true&count_private=true&title_color=ff7b72&text_color=c9d1d9&icon_color=ff7b72&bg_color=0d1117&hide_border=true&hide=issues" alt="TheManthanvaghela's GitHub stats" /></a>
+  <a href="http://www.github.com/TheManthanvaghela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheManthanvaghela&stroke=c9d1d9&background=0d1117&ring=ff7b72&fire=ff7b72&currStreakNum=c9d1d9&currStreakLabel=ff7b72&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" /></a>
+  <a href="http://www.github.com/TheManthanvaghela"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TheManthanvaghela&bg_color=0d1117&color=c9d1d9&line=ff7b72&point=c9d1d9&area_color=0d1117&hide_border=true" alt="GitHub Activity Graph" /></a>
+</div>
+
+---
+
+## 🎨 Top Languages
+
+<a href="http://www.github.com/TheManthanvaghela">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheManthanvaghela&langs_count=8&title_color=ff7b72&text_color=c9d1d9&icon_color=ff7b72&bg_color=0d1117&hide_border=true&locale=en" alt="Top Languages" />
+</a>
+
+---
+
+### 🚀 Quick Fact
+
+"I am Cheetah—known for speed, agility, and hunting skills!" 🐆

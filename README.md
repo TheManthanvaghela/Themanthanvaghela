@@ -15,12 +15,12 @@ I'm a passionate **MERN Stack Developer** who loves working with **Node.js** and
 ## 🔧 Skills
 
 ### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="#" style="text-decoration: none; border: 2px solid #FFD700; border-radius: 8px; padding: 8px 16px; font-weight: bold; color: black; background-color: #FFF8DC;">C</a>
+  <a href="#" style="text-decoration: none; border: 2px solid #FFD700; border-radius: 8px; padding: 8px 16px; font-weight: bold; color: black; background-color: #FFF8DC;">C++</a>
+  <a href="#" style="text-decoration: none; border: 2px solid #FFD700; border-radius: 8px; padding: 8px 16px; font-weight: bold; color: black; background-color: #FFF8DC;">Java</a>
+  <a href="#" style="text-decoration: none; border: 2px solid #FFD700; border-radius: 8px; padding: 8px 16px; font-weight: bold; color: black; background-color: #FFF8DC;">JavaScript</a>
+</div>
 
 ### Frontend Development
 <p>

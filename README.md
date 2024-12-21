@@ -6,8 +6,8 @@ I'm a passionate **MERN Stack Developer** who loves working with **Node.js** and
 
 - 🏠 **Location:** Bhavnagar City
 - 📚 **Portfolio:** [Visit My Portfolio](http://botverse.live/)
-- 📧 **Email:** [manthanvaghela05@gmail.com](mailto:manthanvaghela05@gmail.com)
-- 🧐 **Currently Learning:** Blockchain, Smart Contracts, and Web3
+- ✉️ **Email:** [manthanvaghela05@gmail.com](mailto:manthanvaghela05@gmail.com)
+- 🧠 **Currently Learning:** Blockchain, Smart Contracts, and Web3
 - 🤝 **Open to Collaborations:** Yes! Let's build something great.
 
 ---
@@ -16,44 +16,44 @@ I'm a passionate **MERN Stack Developer** who loves working with **Node.js** and
 
 ### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=black" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=black" />
 </p>
 
 ### Blockchain & Web3
 <p>
-  <img src="https://img.shields.io/badge/Ethereum-%234285F4.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polygon-%237E40F4.svg?style=for-the-badge&logo=polygon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-%2348A9A6.svg?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-%234285F4.svg?style=flat-square&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Polygon-%237E40F4.svg?style=flat-square&logo=polygon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solana-%2348A9A6.svg?style=flat-square&logo=solana&logoColor=black" />
+  <img src="https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=flat-square&logo=metamask&logoColor=black" />
 </p>
 
 ---
 
-## 💌 Let's Connect
+## 💬 Let's Connect
 
 <p>
-  <a href="https://www.github.com/TheManthanvaghela" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/manthanvaghela05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/TheManthanvaghela" target="_blank" style="text-decoration: none; color: black; border: 1px solid black; padding: 5px 10px; font-weight: bold;">GitHub</a>
+  <a href="https://www.linkedin.com/in/manthanvaghela05" target="_blank" style="text-decoration: none; color: black; border: 1px solid black; padding: 5px 10px; font-weight: bold;">LinkedIn</a>
 </p>
 
 ---
